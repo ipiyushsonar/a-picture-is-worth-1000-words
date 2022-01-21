@@ -1,0 +1,7 @@
+# webpack bundle
+client/dist/bundle.js
+
+# Dependency directorys
+node_modules/
+bower_components/
+
